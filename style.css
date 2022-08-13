@@ -1,0 +1,15 @@
+body,html{
+    overflow-x: hidden;
+    background-color: rgb(255,255,255);
+}
+.Recommendation{
+    text-align: center;
+    display: block;
+    
+    color: #404040;
+    
+    font-family: 'roobert_trialsemibold';
+    text-align: center;
+    margin: 0 0 17px;
+}
+
